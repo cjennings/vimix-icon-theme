@@ -1,3 +1,8 @@
+This is a fork of [vinceliuice's](https://github.com/vinceliuice) [Vimix Icon Theme](https://github.com/vinceliuice/vimix-icon-theme). 
+This fork contains bug fixes and modifications to the install scripts fo FreeBSD compatibility.  
+
+I recommend you use the links above for any cloning or submissions. 
+
 ## Vimix Icon Theme
 
 A Material Design icon theme
